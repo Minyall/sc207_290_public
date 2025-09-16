@@ -1,0 +1,700 @@
+,name,n_scenes
+0,#ALL#,235
+1,1st Customer,1
+2,A Casino Boss,1
+3,A Crew Member,1
+4,A Disembodied Voice,1
+5,A Drunken Gambler,1
+6,A Female Student,1
+7,A Male Customer,1
+8,A Student,1
+9,A Tourist,1
+10,A Waiter,1
+11,A Woman,1
+12,Actor,1
+13,Adoption Agency Guy,1
+14,Adrienne,1
+15,Agency Guy,3
+16,Air Hostess,1
+17,Air Stewardess,2
+18,Airline Employee,1
+19,Alan,2
+20,Alex,1
+21,Alexandra Steele,1
+22,Alice Knight,10
+23,Alison,1
+24,Allesandro,3
+25,Amanda (Ross' date),1
+26,Amanda Buffamonteezi,4
+27,Amber,2
+28,Amy Green,10
+29,Anchorwoman,1
+30,Andrea,1
+31,Andrea Waltham,9
+32,Angela Delveccio,4
+33,Annabelle,3
+34,Announcement,1
+35,Announcer,6
+36,Another Extra,1
+37,Another Man's Voice,1
+38,Another Scientist,1
+39,Another Tour Guide,1
+40,Answering Machine,2
+41,Anxious Wedding Guest,1
+42,Arthur,1
+43,Ashley,1
+44,Assistant,1
+45,Attendant,1
+46,Aunt Iris,1
+47,Aunt Lillian,2
+48,Aunt Lisa,2
+49,Aunt Millie,2
+50,Aurora,3
+51,Ballerina,1
+52,Bandleader,2
+53,Bank Officer,1
+54,Barry Farber,9
+55,Bass Singer,1
+56,Ben Geller,17
+57,Benjamin Hobart,4
+58,Bernice,3
+59,Best Man,1
+60,Big Bully,4
+61,Bill,3
+62,Billy,1
+63,Bitsy Hannigan,4
+64,Bitter Lady,1
+65,Bitter Woman,1
+66,Blackjack Dealer,1
+67,Blonde Girl,1
+68,Bob,3
+69,Bob (Chandler's coworker),5
+70,Bobby Corso,2
+71,Bobby Rush,7
+72,Bonnie,9
+73,Boss,1
+74,Both,15
+75,Boy,1
+76,Boy In The Cape,1
+77,Brenda,4
+78,Buddy Boyles,1
+79,Burt,3
+80,C.H.E.E.S.E.,3
+81,Cailin,2
+82,Caitlin,4
+83,Carl (Joey's lookalike),2
+84,Carl (Rachel's date),1
+85,Carol Willick,44
+86,Caroline,1
+87,Casey,1
+88,Cashier,1
+89,Cassie Geller,5
+90,Casting Assistant,1
+91,Casting Director #1,1
+92,Casting Director #2,1
+93,Casting Director #3,1
+94,Casting Director No. 1,1
+95,Casting Director No. 2,1
+96,Casting Guy,1
+97,Catherine,1
+98,Cecilia,5
+99,Celia,2
+100,Chandler Bing,1508
+101,Chandlers,1
+102,Charity Guy,3
+103,Charles Bing,3
+104,Charlie Wheeler,33
+105,Charlton Heston,1
+106,Chase Lassiter,1
+107,Cheryl,4
+108,Chip Matthews,4
+109,Chloe,10
+110,Claudia,2
+111,Clerk,2
+112,Cliff,3
+113,Clown,1
+114,Colleen,2
+115,Coma Guy,1
+116,Commercial,1
+117,Cookie Tribbiani,2
+118,Cop,2
+119,Cowgirl,1
+120,Croupler,1
+121,Customer,6
+122,Customers,1
+123,Cynthia,1
+124,Dan,3
+125,Dana Keystone,2
+126,Danielle,1
+127,Danny,10
+128,Danny's Sister,1
+129,Dave,1
+130,David,16
+131,Dean Lipson,1
+132,Delivery Girl,1
+133,Delivery Guy,2
+134,Delivery Room Nurse,1
+135,Dennis Phillips,2
+136,Devon,1
+137,Dick Clark,1
+138,Dina,7
+139,Director,16
+140,Director's Assistant,2
+141,Dirk,1
+142,Doctor,6
+143,Doctor Connelly,1
+144,Don,2
+145,Donny Osmond,4
+146,Doug,10
+147,Dr. Baldhara,1
+148,Dr. Biely,1
+149,Dr. Drake Ramoray,8
+150,Dr. Franzblau,5
+151,Dr. Gettleman,1
+152,Dr. Harad,5
+153,Dr. Horton,1
+154,Dr. Johnson,1
+155,Dr. Ledbetter,3
+156,Dr. Li,1
+157,Dr. Long,8
+158,Dr. Miller,1
+159,Dr. Mitchell,3
+160,Dr. Oberman,2
+161,Dr. Rhodes,2
+162,Dr. Roger,1
+163,Dr. Rosen,2
+164,Dr. Schiff,1
+165,Dr. Stryker Remoray,1
+166,Dr. Wesley,1
+167,Dr. Zane,2
+168,Dressmaker,1
+169,Drew,1
+170,Drunk Man,1
+171,Drunken Gambler,2
+172,Duncan,3
+173,Earl,4
+174,Eddie Menuek,13
+175,Eldad,1
+176,Elizabeth Hornswoggle,2
+177,Elizabeth Stevens,18
+178,Emeril,1
+179,Emil Alexander,1
+180,Emily Waltham,33
+181,Emma,1
+182,Employee,1
+183,Eric,6
+184,Eric (photographer),2
+185,Erica,13
+186,Erica Ford,4
+187,Erin,5
+188,Ernie,1
+189,Estelle Leonard,9
+190,Ethan,3
+191,Evil Bitch,1
+192,Extra,1
+193,Fake Monica,3
+194,Fat Girl,1
+195,Felicity,2
+196,Female Clerk,1
+197,Female Jeweler,1
+198,Female Student,1
+199,Fergie,1
+200,Fireman,1
+201,Fireman #1,1
+202,Fireman #2,1
+203,Fireman No. 1,2
+204,Fireman No. 2,2
+205,Fireman No. 3,3
+206,First Dorm Guy,1
+207,Flight Attendant,1
+208,Frank Buffay Jr.,26
+209,Frank Buffay Sr.,2
+210,Franny,2
+211,Fredrick,1
+212,Friend,2
+213,Friend No. 1,2
+214,Friend No. 2,2
+215,Front Desk Clerk,2
+216,Gail,1
+217,Gang,2
+218,Gary,16
+219,Gary Collins,2
+220,Gary's Radio,1
+221,Gate Agent,2
+222,Gate Attendant #1,1
+223,Gate Attendant #2,1
+224,Gavin Mitchell,8
+225,Gene,3
+226,Gerston,1
+227,Gert,1
+228,Ginger,4
+229,Girl,8
+230,Girl 1,2
+231,Girl 1 On Bus,1
+232,Girl 2,1
+233,Girl 2 On Bus,1
+234,Girl's Voice,1
+235,Glenda,1
+236,Gloria Tribbiani,1
+237,Grandma Tribbiani,2
+238,Grandmother,2
+239,Guest #1,1
+240,Guest #2,1
+241,Guest #3,1
+242,Gunther,67
+243,Guru Saj,2
+244,Guy,26
+245,Guy #1,1
+246,Guy #2,1
+247,Guy All The Way In The Back,1
+248,Guys,5
+249,Gym Employee,1
+250,Handyman,1
+251,Hayley,3
+252,Hayley's Roommate,1
+253,Health Inspector,1
+254,Heather,1
+255,Helen,2
+256,Helena,3
+257,Henrietta,1
+258,Her Friend,1
+259,Her Friends,1
+260,Hilda,1
+261,Hillary,2
+262,Hitchhiker,3
+263,Hold Voice,3
+264,Hombre Man,3
+265,Hooker,2
+266,Hope,1
+267,Hoshi,1
+268,Host,3
+269,Hotel Clerk,1
+270,Housekeeper,1
+271,Hypnosis Tape,3
+272,Intercom,3
+273,Intern,2
+274,Interviewer,4
+275,Isabella Rosselini,1
+276,Issac,3
+277,Jack,1
+278,Jack Geller,40
+279,Jade,4
+280,Jake,2
+281,Jamie,1
+282,Jane,1
+283,Janice Litman Goralnik,46
+284,Janice's Voice,1
+285,Janine,1
+286,Janine Lecroix,14
+287,Janitor,3
+288,Jarvis Oberblau,1
+289,Jasmine,2
+290,Jason,3
+291,Jay Leno,2
+292,Jean-Claude Van Damme,4
+293,Jeanette,1
+294,Jeannie,1
+295,Jeannine,1
+296,Jen,2
+297,Jennifer Aniston,1
+298,Jessica Ashley,1
+299,Jessica Lockhart,2
+300,Jester,1
+301,Jill Goodacre,6
+302,Jill Green,9
+303,Jim,2
+304,Jo Lynn,1
+305,Joanna,11
+306,Joanne,2
+307,Joey Tribbiani,1451
+308,Joey Tribbiani Sr.,5
+309,Joey's Co-Star,2
+310,Joey's Date,2
+311,Joey's Doctor,4
+312,Joey's Grandmother,1
+313,Joey's Hand Twin,2
+314,Joey's Look-A-Like,1
+315,Joey's Sister,1
+316,Joey's Sisters,2
+317,Joshua Burgin,14
+318,Judge,1
+319,Judy Geller,52
+320,Julie,17
+321,Julie Coreger,2
+322,Julie Graff,1
+323,Julio (poet),3
+324,Kara,3
+325,Karin,1
+326,Kash,2
+327,Kate Miller,9
+328,Kathy,18
+329,Kathy's Co-Star,1
+330,Katie,3
+331,Katie (saleswoman),2
+332,Ken,2
+333,Kevin,1
+334,Kid,4
+335,Kids,2
+336,Kiki,2
+337,Kim,8
+338,Kitchen Worker,1
+339,Kori,1
+340,Krista,3
+341,Kristen,1
+342,Kristen Leigh,3
+343,Kristin,2
+344,Kyle,2
+345,Kyle Lowder,1
+346,Lady,1
+347,Larry,3
+348,Laura,2
+349,Lauren,7
+350,Leader,1
+351,Lecturer,2
+352,Lennart,3
+353,Leonard Green,14
+354,Leslie,6
+355,Lewis,2
+356,Liam,2
+357,Lisa,1
+358,Lisa Kudrow,1
+359,Little Bully,4
+360,Little Girl,1
+361,Lizzy,2
+362,Locksmith,1
+363,Lorraine,3
+364,Lowell,1
+365,Lowell (mugger),1
+366,Luisa Gianetti,2
+367,Lydia,5
+368,Mac,1
+369,Machine,4
+370,Mackenzie,2
+371,Maitre D',4
+372,Malcom,2
+373,Male Guest,1
+374,Male Jeweler,2
+375,Male Nurse,1
+376,Male Student,1
+377,Man,22
+378,Man At The Wedding,1
+379,Man On Tv,2
+380,Man With A Bow Tie,1
+381,Man's Voice,1
+382,Manny,1
+383,Marc Coreger,2
+384,Marge,1
+385,Margha,2
+386,Marjorie,1
+387,Mark Robinson,11
+388,Marsha,1
+389,Mary Ellen,2
+390,Mary-Angela,1
+391,Mary-Theresa,1
+392,Matire'D,1
+393,Matress King,1
+394,Matthew Ashford,1
+395,Matthew Perry,1
+396,Max,4
+397,Meg,1
+398,Megan Bailey,2
+399,Mel,1
+400,Melanie,2
+401,Melissa Warburton,5
+402,Message,2
+403,Michael,2
+404,Michelle,3
+405,Michelle Burke,1
+406,Mike,3
+407,Mike Hannigan,60
+408,Mike's Dad,1
+409,Mike's Father,1
+410,Mike's Mom,1
+411,Mike's Mother,1
+412,Mindy Hunter,3
+413,Minister,3
+414,Mischa,3
+415,Missy Goldberg,2
+416,Molly,5
+417,Mona,20
+418,Mona's Date,1
+419,Monica Geller,1440
+420,Monica's Boyfriend,1
+421,Mover,1
+422,Mr. Adelman,1
+423,Mr. Bowmont,1
+424,Mr. Burgin,2
+425,Mr. Campbell,1
+426,Mr. Douglas,3
+427,Mr. Franklin,2
+428,Mr. Heckles,7
+429,Mr. Kaplan,1
+430,Mr. Posner,1
+431,Mr. Ratstatter,3
+432,Mr. Simon,1
+433,Mr. Thompson,3
+434,Mr. Treeger,11
+435,Mr. Wineburg,1
+436,Mr. Zelner,10
+437,Mrs. Buffay,1
+438,Mrs. Burgin,2
+439,Mrs. Burkart,3
+440,Mrs. Chatracus,1
+441,Mrs. Lynch,2
+442,Mrs. Potter,1
+443,Mrs. Tedlock,1
+444,Mrs. Verhoeven's Daughter,2
+445,Mrs. Wallace,1
+446,Mrs. Wineburg,1
+447,Ms. Lambert,1
+448,Ms. Mckenna,3
+449,Nancy,4
+450,Narrator,1
+451,Ned Morse,2
+452,Nina Bookbinder,4
+453,Nora Tyler Bing,8
+454,Nurse,15
+455,Nurse #1,1
+456,Nurse #2,1
+457,Nurse Sizemore,7
+458,Old Woman,1
+459,Older Scientist,1
+460,Olivia,1
+461,Others,2
+462,Oven,1
+463,Owen,2
+464,Paleontologist,1
+465,Paolo,7
+466,Parker,4
+467,Party Guests,1
+468,Passenger,2
+469,Passenger #1,1
+470,Passenger #2,2
+471,Passenger #3,1
+472,Passerby,1
+473,Patrick,1
+474,Patron,1
+475,Paul Stevens,16
+476,Paul the Wine Guy,4
+477,Paula,2
+478,Paulo,2
+479,Pbs Volunteer,1
+480,Pete's Mom,1
+481,Peter,1
+482,Peter Becker,17
+483,Petrie,1
+484,Phil,1
+485,Phoebe Abbott,6
+486,Phoebe Buffay,1341
+487,Phoebe's Assistant,1
+488,Phoebe's Friends,1
+489,Photographer,2
+490,Pizza Guy,2
+491,Policeman,2
+492,Precious,2
+493,Priest On Tv,1
+494,Producer,1
+495,Producer #1,1
+496,Professor Feesen,2
+497,Professor Sherman,1
+498,Professor Spafford,2
+499,Professore Clerk,1
+500,Prospective Nanny,1
+501,Quartet,2
+502,Racel,1
+503,Rachel Green,1461
+504,Rachel's Boss,1
+505,Radio,1
+506,Ralph Lauren,2
+507,Ray,1
+508,Raymond,1
+509,Realtor,2
+510,Receptionist,11
+511,Referee,1
+512,Richard Burke,48
+513,Richard's Date,2
+514,Rick Sanoven,2
+515,Rita,1
+516,Rob,4
+517,Robbie,2
+518,Robert Bobby,4
+519,Robin,1
+520,Robin Williams,1
+521,Roger,4
+522,Ronni Rapalono,3
+523,Ross Geller,1416
+524,Roy,3
+525,Russ,4
+526,Russell,2
+527,Ryan,4
+528,Salesman,1
+529,Sally,1
+530,Salon Girl,1
+531,Same Man's Voice,1
+532,Sandra Green,13
+533,Sandy,8
+534,Santos,1
+535,Sarah,4
+536,Sarah Tuttle,3
+537,Scene Directions,2985
+538,Scott Alexander,1
+539,Sebastian,1
+540,Second Dorm Guy,1
+541,Second Girl,1
+542,Second Message,1
+543,Secretary,1
+544,Security Guard,2
+545,Sergei,2
+546,Shelley,2
+547,Sherman Whitfield,1
+548,Shop Assistant,1
+549,Sick Bastard,1
+550,Sid Goralnik,1
+551,Singer,2
+552,Sister 1,1
+553,Sleep Clinic Worker,1
+554,Smart Kid,1
+555,Smoke Detector,1
+556,Sonia,1
+557,Soothing Male Voice,1
+558,Sophie,7
+559,Spokeswoman,1
+560,Stage Director,2
+561,Stage Manager,3
+562,Stanley,1
+563,Stephanie,1
+564,Stephanie Schiffer,2
+565,Stephen Waltham,12
+566,Steve,5
+567,Steve (drug addict),2
+568,Steve Cera,3
+569,Steven Fisher,1
+570,Stevens,2
+571,Store Guy,1
+572,Strange Man,1
+573,Stranger,2
+574,Stripper,1
+575,Stu,1
+576,Student,3
+577,Supervisor,2
+578,Susan Bunch,32
+579,Susie Moss,3
+580,Tag Jones,27
+581,Tall Guy,2
+582,Tape,1
+583,Tattoo Artist,1
+584,Teacher,5
+585,Terry,5
+586,"The ""Hey Guy"" Guy",1
+587,The A.D,1
+588,The Acting Teacher,1
+589,The Assistant Director,2
+590,The Attendant,1
+591,The Bass Barber,1
+592,The Casting Director,5
+593,The Chorus Line,1
+594,The Cigarette Guy,1
+595,The Cigarette Smoking Guy,1
+596,The Colonel,1
+597,The Conductor,2
+598,The Cooking Teacher,3
+599,The Croupier,2
+600,The Cute Guy,2
+601,The Director,17
+602,The Doctor,5
+603,The Dry Cleaner,3
+604,The Fan,1
+605,The Fireman,1
+606,The Flight Attendant,2
+607,The Food Critic,1
+608,The Girls,7
+609,The Grip,1
+610,The Guys,10
+611,The Head Librarian,1
+612,The Hot Girl,1
+613,The Housekeeper,1
+614,The Husband,1
+615,The Instructor,1
+616,The Interviewer,8
+617,The Knocker,1
+618,The Librarian,1
+619,The Little Girl,1
+620,The Lurker,2
+621,The Man,3
+622,The Man In The Sportscar,1
+623,The Museum Official,3
+624,The Old Man,1
+625,The Other Woman,1
+626,The Paramedic,1
+627,The Pastor,1
+628,The Photographer,1
+629,The Porsche Owner,1
+630,The Potential Roommate,2
+631,The Presenter,1
+632,The Producer,1
+633,The Professor,1
+634,The Rabbi,2
+635,The Saleslady,1
+636,The Salesman,4
+637,The Saleswoman,1
+638,The Second Guest,1
+639,The Security Guard,2
+640,The Singing Man,2
+641,The Smoking Woman,1
+642,The Stripper,2
+643,The Teacher,4
+644,The Vampire,1
+645,The Vendor,1
+646,The Waiter,3
+647,The Waitress,1
+648,The Wedding Guest,1
+649,The Whole Party,1
+650,The Woman,4
+651,The Woman Dealer,1
+652,The Woman From Poughkeepsie,1
+653,The Writer,1
+654,Theodore,3
+655,Ticket Agent,5
+656,Ticket Counter Attendant,2
+657,Tilly,1
+658,Tim,3
+659,Timothy Burke,3
+660,Together,1
+661,Tom,3
+662,Tommy,3
+663,Tony,1
+664,Tour Guide,2
+665,Trainer,1
+666,Transit Authority Guy,1
+667,Trudie Styler,1
+668,Tv Announcer,2
+669,Tv Doctor,1
+670,Uncle Dan,1
+671,Ursula,3
+672,Ursula Buffay,7
+673,Vince,3
+674,Voice,3
+675,Waiter,20
+676,Waiter #2,1
+677,Waiter In Drag,1
+678,Waiter No. 2,1
+679,Waiters,1
+680,Waitress,6
+681,Wayne,3
+682,Wedding Planner,1
+683,Wendy,4
+684,Whitney,2
+685,Will Colbert,2
+686,Witch,1
+687,Woman,50
+688,Woman At Door,1
+689,Woman At The Wedding,1
+690,Woman Giving Birth,1
+691,Woman No. 1,2
+692,Woman No. 2,2
+693,Woman On Train,1
+694,Woman On Tv,2
+695,Woman's Voice,1
+696,Writer,1
+697,Zack,3
+698,Zoe,1
