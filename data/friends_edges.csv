@@ -1,0 +1,16 @@
+,source,target,weight
+0,Chandler Bing,Joey Tribbiani,920
+1,Chandler Bing,Monica Geller,974
+2,Chandler Bing,Phoebe Buffay,701
+3,Chandler Bing,Rachel Green,686
+4,Chandler Bing,Ross Geller,750
+5,Joey Tribbiani,Monica Geller,724
+6,Joey Tribbiani,Phoebe Buffay,710
+7,Joey Tribbiani,Rachel Green,725
+8,Joey Tribbiani,Ross Geller,720
+9,Monica Geller,Phoebe Buffay,820
+10,Monica Geller,Rachel Green,797
+11,Monica Geller,Ross Geller,681
+12,Phoebe Buffay,Rachel Green,785
+13,Phoebe Buffay,Ross Geller,671
+14,Rachel Green,Ross Geller,861
